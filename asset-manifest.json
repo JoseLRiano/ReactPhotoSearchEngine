@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPhotoSearchEngine/static/css/main.42eacbcb.chunk.css",
+    "main.js": "/ReactPhotoSearchEngine/static/js/main.9e8fa377.chunk.js",
+    "main.js.map": "/ReactPhotoSearchEngine/static/js/main.9e8fa377.chunk.js.map",
+    "runtime-main.js": "/ReactPhotoSearchEngine/static/js/runtime-main.f83e0996.js",
+    "runtime-main.js.map": "/ReactPhotoSearchEngine/static/js/runtime-main.f83e0996.js.map",
+    "static/js/2.c73d4bb8.chunk.js": "/ReactPhotoSearchEngine/static/js/2.c73d4bb8.chunk.js",
+    "static/js/2.c73d4bb8.chunk.js.map": "/ReactPhotoSearchEngine/static/js/2.c73d4bb8.chunk.js.map",
+    "index.html": "/ReactPhotoSearchEngine/index.html",
+    "precache-manifest.1ddb4e1e91bb899cf93b12880499b4df.js": "/ReactPhotoSearchEngine/precache-manifest.1ddb4e1e91bb899cf93b12880499b4df.js",
+    "service-worker.js": "/ReactPhotoSearchEngine/service-worker.js",
+    "static/css/main.42eacbcb.chunk.css.map": "/ReactPhotoSearchEngine/static/css/main.42eacbcb.chunk.css.map",
+    "static/js/2.c73d4bb8.chunk.js.LICENSE.txt": "/ReactPhotoSearchEngine/static/js/2.c73d4bb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f83e0996.js",
+    "static/js/2.c73d4bb8.chunk.js",
+    "static/css/main.42eacbcb.chunk.css",
+    "static/js/main.9e8fa377.chunk.js"
+  ]
+}
